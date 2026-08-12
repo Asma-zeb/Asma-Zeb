@@ -5,9 +5,7 @@
 <h1 align="center">Asma Zeb</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=E754A0&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Exploring+Artificial+Intelligence+%26+Machine+Learning;Agentic+AI+%7C+MCP+%7C+Claude+%7C+RAG;Building+with+Python+%26+n8n">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=E754A0&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Exploring+Artificial+Intelligence+%26+Machine+Learning;Agentic+AI+%7C+MCP+%7C+Claude+%7C+RAG;Building+with+Python+%26+n8n" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -46,81 +44,97 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
-<br>
+---
 
-### 🌸 About Me
+## 🌸 About Me
 
-I'm a Computer Science student at AWKUM, currently focused on exploring the latest developments in **Artificial Intelligence and Machine Learning**. My interest lies specifically in the emerging space of **agentic AI systems** — how AI agents plan, use tools, and work together through protocols like MCP (Model Context Protocol) — alongside foundational ML, prompt engineering, and full-stack web development.
+I'm a Computer Science student at AWKUM, currently focused on exploring the latest developments in **Artificial Intelligence and Machine Learning**.
 
-### 🎯 Focus Areas
+My interest lies specifically in the emerging space of **agentic AI systems** — how AI agents plan, use tools, and work together through protocols like MCP (Model Context Protocol) — alongside foundational ML, prompt engineering, and full-stack web development.
 
-* 🤖 **Agentic AI Architecture** — designing AI agents that reason, plan, and act autonomously
-* 🔗 **Model Context Protocol (MCP)** — connecting AI models to real tools and data sources
-* 🧠 **Machine Learning & AI Fluency** — practical ML foundations and applied AI literacy
-* 💬 **Prompt Engineering** — crafting effective prompts for LLMs like ChatGPT and Claude
-* 🌐 **Web Development** — building with HTML, CSS, JavaScript, and databases
+## 🎯 Focus Areas
 
-### 🚀 How This Shapes My Professional Path
+- 🤖 **Agentic AI Architecture** — designing AI agents that reason, plan, and act autonomously
+- 🔗 **Model Context Protocol (MCP)** — connecting AI models to real tools and data sources
+- 🧠 **Machine Learning & AI Fluency** — practical ML foundations and applied AI literacy
+- 💬 **Prompt Engineering** — crafting effective prompts for LLMs like ChatGPT and Claude
+- 🌐 **Web Development** — building with HTML, CSS, JavaScript, and databases
 
-The AI field is moving from simple chatbots toward autonomous, tool-using agents — and I'm building my foundation right at that shift. Combining core CS fundamentals such as data structures, OOP, and DBMS with hands-on agentic AI training positions me to work on the next generation of AI-powered products: intelligent assistants, automated workflows, and agent-based systems that solve real problems rather than just answer questions.
+## 🚀 How This Shapes My Professional Path
 
-### 🛠️ Skills
+The AI field is moving from simple chatbots toward autonomous, tool-using agents — and I'm building my foundation right at that shift.
 
-**Languages**
+Combining core CS fundamentals such as data structures, OOP, and DBMS with hands-on agentic AI training positions me to work on the next generation of AI-powered products: intelligent assistants, automated workflows, and agent-based systems that solve real problems rather than just answer questions.
+
+## 🛠️ Skills
+
+### Languages
 
 `Python` `C++` `JavaScript` `HTML` `CSS`
 
-**Tools & Technologies**
+### Tools & Technologies
 
 `n8n` `Claude Skills` `Anthropic Claude` `Relational Databases`
 
-**Core CS Foundations**
+### Core CS Foundations
 
 `Data Structures` `Object-Oriented Programming (OOP)` `Digital Logic Design (DLD)` `Database Management Systems (DBMS)` `Web Development`
 
-### 📜 Certifications
+---
 
-**🔶 Anthropic**
+## 📊 GitHub Statistics
 
-* Model Context Protocol: Advanced Topics
-* Introduction to Model Context Protocol
-* Building with the Claude API
-* Claude Code in Action
-* Claude Code 101
-* Claude 101
-* Introduction to Claude Cowork
-* AI Fluency Framework & Foundations
-* AI Fluency for Students
-* AI Fluency for Educators
-* Teaching the AI Fluency Framework
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="90%" alt="GitHub 3D Contribution Graph">
+</p>
 
-**🎓 Vanderbilt University**
+---
 
-* AI Agents and Agentic AI Architecture in Python
-* Prompt Engineering for ChatGPT
-* ChatGPT & Zapier: Agentic AI for Everyone
+## 📜 Certifications
 
-**🔷 IBM**
+### 🔶 Anthropic
 
-* Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI
-* Machine Learning with Python
+- Model Context Protocol: Advanced Topics
+- Introduction to Model Context Protocol
+- Building with the Claude API
+- Claude Code in Action
+- Claude Code 101
+- Claude 101
+- Introduction to Claude Cowork
+- AI Fluency Framework & Foundations
+- AI Fluency for Students
+- AI Fluency for Educators
+- Teaching the AI Fluency Framework
 
-**🟢 Google**
+### 🎓 Vanderbilt University
 
-* AI Fundamentals
-* Start Writing Prompts like a Pro
+- AI Agents and Agentic AI Architecture in Python
+- Prompt Engineering for ChatGPT
+- ChatGPT & Zapier: Agentic AI for Everyone
 
-**📘 Other Platforms**
+### 🔷 IBM
 
-* MCP – Model Context Protocol *(Coursera)*
-* AI For Everyone *(DeepLearning.AI)*
-* AI Agents 101: Foundations of AI Agents *(LearnQuest)*
-* Agentic AI Foundations: Build RAG *(LearnKartS)*
-* Building Agentic AI Systems *(Packt)*
-* Python Essentials 1 *(Cisco)*
-* Hackathon'26 Participant, Peshawar *(atomcamp)*
+- Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI
+- Machine Learning with Python
 
-### 📇 Contact Information
+### 🟢 Google
+
+- AI Fundamentals
+- Start Writing Prompts like a Pro
+
+### 📘 Other Platforms
+
+- MCP – Model Context Protocol *(Coursera)*
+- AI For Everyone *(DeepLearning.AI)*
+- AI Agents 101: Foundations of AI Agents *(LearnQuest)*
+- Agentic AI Foundations: Build RAG *(LearnKartS)*
+- Building Agentic AI Systems *(Packt)*
+- Python Essentials 1 *(Cisco)*
+- Hackathon'26 Participant, Peshawar *(atomcamp)*
+
+---
+
+## 📇 Contact Information
 
 <p align="center">
 
@@ -142,7 +156,7 @@ The AI field is moving from simple chatbots toward autonomous, tool-using agents
   🤝 <b>Connected Since:</b> December 27, 2025
 </p>
 
-### 🌐 Connect
+## 🌐 Connect
 
 <p align="center">
 
