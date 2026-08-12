@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="./assets/asma-tech-banner.png" width="80%" alt="Asma Zeb - Computer Science Student">
-</h1>
+<p align="center">
+  <img src="./asma.gif" width="80%" alt="Asma Zeb - Computer Science Student">
+</p>
 
 <h1 align="center">Asma Zeb</h1>
 
@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  🎓 BS Computer Science @ Abdul Wali Khan University Mardan (AWKUM) <br>
+  🎓 BS Computer Science @ Abdul Wali Khan University Mardan (AWKUM)
+  <br>
   📍 Mardan, Khyber Pakhtunkhwa, Pakistan
 </p>
 
